@@ -5,7 +5,7 @@
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 [circleci-url]: https://circleci.com/gh/nestjs/nest
 
-  <p align="center"><b><a href="https://www.udemy.com/share/101sVU3@F_3pLsqsDnshBytVhJj9IjedOQTBBwtZkXVFlrcenCT8Pzv0gms8kItPMM7jPxUm/" target="blank">Curso</a>NestJS: Node + Typescript al estilo Angular para crear APIS.</b></p>
+  <p align="center"><b><a href="https://www.udemy.com/share/101sVU3@F_3pLsqsDnshBytVhJj9IjedOQTBBwtZkXVFlrcenCT8Pzv0gms8kItPMM7jPxUm/" target="_blank">Curso</a> NestJS: Node + Typescript al estilo Angular para crear APIS.</b></p>
 
 ## Description
 
